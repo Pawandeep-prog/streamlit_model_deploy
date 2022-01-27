@@ -7,7 +7,7 @@ Model Deployment using streamlit
 
 <h2>How to Run</h2>
 1 - Download the Repository<br>
-2 - Run coomand "streamlit run app.py"<br>
+2 - Run coomand <code>streamlit run app.py</code><br>
 And the browser will open running this app<br>
 
 <h1>Connect with me</h1>
